@@ -1,0 +1,7 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+git remote add origin https://github.com/Jacqueline-dev/integracaoSQLPython.git
+git branch -M main
+git push -u origin main
+
